@@ -2,4 +2,6 @@
 function calculateSum(a: number, b: number): number {
   return a + b;
 }
+
 console.log("This is the main branch");
+console.log("This is the feature branch");
